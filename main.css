@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 }
-
+/*PAGINA*/
 body > header{
     background-color: #2f3640;
     padding: 16px 0;
@@ -89,6 +89,7 @@ section h2,
     font-size: 32px;
 }
 
+/*SEÇÃO ESPORTE*/
 #sports{
     background-color: rgba(0, 255, 0, 0.1);
 }
@@ -97,10 +98,25 @@ section h2,
     background-color: #009432;
 }
 
+/*SEÇÃO ECONOMIA*/
 #economy{
     background-color: #f8f59f;
 }
 
 #economy .articles article a{
     background-color: #ff9f1a;
+}
+
+/*SEÇÃO ENTRETENIMENTO*/
+#entertainment{
+    background-color: rgb(242, 166, 242);
+}
+
+#entertainment .articles article a{
+    background-color: purple;
+}
+
+/*SEÇÃO TECNOLOGIA*/
+#technology{
+    background-color: rgb(155, 155, 243);
 }
